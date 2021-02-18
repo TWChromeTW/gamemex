@@ -1,0 +1,67 @@
+.shapkatext{
+	
+	background-image:url(xK.gif);
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	font: italic normal bold 38pt times new roman, serif;
+	color:white;
+	height:190px;
+	
+}
+
+body{
+	
+	background-image: url(фон.png);
+	
+}
+
+.pipboy{
+	float:left;
+	
+}
+
+.mario{
+	
+	float:left;
+	
+	
+}
+
+*{
+	
+	--border:2px solid yellow;
+	
+}
+
+.robot{
+	float:left;
+}
+
+.menu{
+	float:left;
+	margin:0 auto;
+	\\border: 1px solid blue;
+	font: italic normal bold 120% times new roman, serif;
+	color:white;
+}
+
+.osninfa{
+	float:left;
+	margin:0 auto;
+	width:90%;
+	\\border: 1px solid red;
+	background-color:white;	
+	
+}
+
+.podval{
+	display:block;
+	float:left;
+	border: 1px solid red;
+	background-color:6B1560;
+	
+}
+
+
+
